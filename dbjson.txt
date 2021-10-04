@@ -1,0 +1,40 @@
+{
+    "customer": [   /* customer은 key, value는 배열, 배열 요소는 JS */
+      {
+        "id": 1,    /* id키는 pk역할을 한다.(키 이름을 변경하면 안된다. */
+        "name": "sana",
+        "age": 25,
+        "hobby": [  /* hobby키도 값은 배열이다. */
+          "movie",
+          "yoga"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "nana",
+        "age": 32,
+        "hobby": [
+          "reading",
+          "singing"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "momo",
+        "age": 29,
+        "hobby": [
+          "달리기",
+          "그림그리기"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "nayeon",
+        "age": 23,
+        "hobby": [
+          "노래",
+          "영화감상"
+        ]
+      }
+    ]
+  }

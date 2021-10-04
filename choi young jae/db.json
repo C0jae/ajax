@@ -1,0 +1,73 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "sana",
+      "age": 25,
+      "hobby": [
+        "movie",
+        "yoga"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "nana",
+      "age": 32,
+      "hobby": [
+        "reading",
+        "singing"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "nayeon",
+      "age": 23,
+      "hobby": [
+        "노래",
+        "영화감상"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "winter",
+      "age": 21,
+      "hobby": [
+        "노래",
+        "영화감상"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "momo",
+      "age": 24,
+      "hobby": [
+        "노래",
+        "영화감상"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "summer",
+      "age": "23",
+      "hobby": [
+        "piano, soccer"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "spring",
+      "age": "26",
+      "hobby": [
+        "swim, running"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "fall",
+      "age": "24",
+      "hobby": [
+        "sleep, game"
+      ]
+    }
+  ]
+}
